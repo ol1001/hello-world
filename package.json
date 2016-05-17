@@ -1,0 +1,28 @@
+{
+  "name": "hello-world-fcc",
+  "version": "1.0.0",
+  "description": "for FCC ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ol1001",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ol1001/hello-world.git"
+  },
+  "keywords": [
+    "FCC",
+    "npm",
+    "learning"
+  ],
+  "bugs": {
+    "url": "https://github.com/ol1001/hello-world/issues"
+  },
+  "homepage": "https://github.com/ol1001/hello-world#readme"
+}
